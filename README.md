@@ -7,7 +7,6 @@
 <p>3) <strong>Architecture</strong></p>
 </P>
 <br/>
-<br/>
 <h3>My skill</h3>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=yellow" /> 
