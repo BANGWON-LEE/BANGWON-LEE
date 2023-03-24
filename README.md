@@ -6,6 +6,7 @@
 <p>2) <strong>Efficient rendering</strong></p>
 <p>3) <strong>Architecture</strong></p>
 </P>
+<br/>
 <p>
  <strong>I use</strong><br/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=yellow" /> 
