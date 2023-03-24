@@ -18,7 +18,7 @@
    <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=blue" /><br/>
  
 </p> 
-## **therefore i can**
+## therefore i can
 
 <!--
 **BANGWON-LEE/BANGWON-LEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
