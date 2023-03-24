@@ -9,7 +9,7 @@
 <br/>
 <br/>
 <h3>My skill</h3>
-<p><img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white" /></p>
+<p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white" /></p>
 
 <!--
 **BANGWON-LEE/BANGWON-LEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
