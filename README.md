@@ -8,7 +8,7 @@
 </P>
 <br/>
 
-## I use
+## I use  
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=yellow" /> 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" /> 
@@ -18,7 +18,7 @@
    <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=blue" /><br/>
 </p>
  
-## therefore i can
+## therefore i can  
 
 <!--
 **BANGWON-LEE/BANGWON-LEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
