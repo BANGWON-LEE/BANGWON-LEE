@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<p>
+ <h3>My interest rank</h3>
+1) UI && UX
+2) Efficient rendering
+3) Architecture
+</P>
+
 <!--
 **BANGWON-LEE/BANGWON-LEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
