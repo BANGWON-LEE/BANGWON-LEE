@@ -2,9 +2,9 @@
 
 <p>
  <h3>My interest rank</h3>
-1) UI && UX
-2) Efficient rendering
-3) Architecture
+<p>1) <strong>UI && UX</strong></p>
+<p>2) <strong>Efficient rendering</strong></p>
+<p>3) <strong>Architecture</strong></p>
 </P>
 
 <!--
