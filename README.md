@@ -39,4 +39,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![WakaTime](https://wakatime.com/badge/github/사용자명/리포지토리명.svg)](https://wakatime.com/badge/github/BANGWON-LEE/BANGWON-LEE)
+[![WakaTime](https://wakatime.com/badge/github/BANGWON-LEE/BANGWON-LEE.svg)](https://wakatime.com/badge/github/BANGWON-LEE/BANGWON-LEE)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
