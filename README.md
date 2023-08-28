@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![WakaTime](https://wakatime.com/badge/github/BANGWON-LEE/BANGWON-LEE.svg)](https://wakatime.com/badge/github/BANGWON-LEE/BANGWON-LEE)
+[![WakaTime](https://wakatime.com/badge/github/BANGWON-LEE/travel_diary.svg)](https://wakatime.com/badge/github/BANGWON-LEE/travel_diary)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
