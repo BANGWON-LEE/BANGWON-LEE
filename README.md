@@ -37,3 +37,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![WakaTime](https://wakatime.com/badge/github/사용자명/리포지토리명.svg)](https://wakatime.com/badge/github/BANGWON-LEE/BANGWON-LEE)
