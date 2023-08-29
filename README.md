@@ -20,7 +20,7 @@
   <strong> therefore i can👌🔥</strong>                     
 </p>
 
-
+<figure><embed src="https://wakatime.com/share/@28695c98-2aa7-4d2a-9cad-a2074d07d512/0aef6005-19f4-4494-8f84-eeb88c897e96.svg"></embed></figure>
 
 
 <!--
@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<figure><embed src="https://wakatime.com/share/@28695c98-2aa7-4d2a-9cad-a2074d07d512/0aef6005-19f4-4494-8f84-eeb88c897e96.svg"></embed></figure>
+
 
