@@ -38,7 +38,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--START_SECTION:waka-->
-[![WakaTime](https://wakatime.com/badge/github/BANGWON-LEE/BANGWON-LEE.svg)](https://wakatime.com/badge/github/BANGWON-LEE/BANGWON-LEE)
-
-<!--END_SECTION:waka-->
