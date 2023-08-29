@@ -20,7 +20,7 @@
   <strong> therefore i can👌🔥</strong>                     
 </p>
 
-[![BANGWON's GitHub stats]](https://github-readme-stats.vercel.app/api?username=BANGWON-LEE&hide=contribs,prs)
+[![BANGWON-LEE's GitHub stats](https://github-readme-stats.vercel.app/api?username=BANGWON-LEE)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **BANGWON-LEE/BANGWON-LEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
