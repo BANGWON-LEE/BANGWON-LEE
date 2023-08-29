@@ -22,7 +22,7 @@
 
 [![BANGWON-LEE's GitHub stats](https://github-readme-stats.vercel.app/api?username=BANGWON-LEE)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BANGWON-LEE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![BANGWON-LEE's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BANGWON-LEE)](https://github.com/anuraghazra/github-readme-stats)
+[![BANGWON-LEE's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wony0823)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **BANGWON-LEE/BANGWON-LEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
