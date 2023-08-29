@@ -19,9 +19,6 @@
    <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=blue" /><br/>
   <strong> therefore i can👌🔥</strong>                     
 </p>
-<figure>
-    <img src="https://wakatime.com/share/@28695c98-2aa7-4d2a-9cad-a2074d07d512/0aef6005-19f4-4494-8f84-eeb88c897e96.svg" alt="Description of the image">
-</figure>
 
 
 <!--
