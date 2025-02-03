@@ -1,5 +1,5 @@
 ### Hello Community 👋
-/**
+
 <p>
  <h2>My interest rank</h2>
 <p>1) <strong>UI && UX</strong></p>
@@ -7,7 +7,6 @@
 <p>3) <strong>Architecture</strong></p>
 </P>
 <br/>
-**/
 
 ### I use  
 
